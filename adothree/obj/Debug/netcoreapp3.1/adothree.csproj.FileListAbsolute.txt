@@ -1,0 +1,13 @@
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.exe
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.deps.json
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.runtimeconfig.json
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.runtimeconfig.dev.json
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.dll
+C:\Users\bkukrej\source\repos\adothree\adothree\bin\Debug\netcoreapp3.1\adothree.pdb
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.csproj.AssemblyReference.cache
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.AssemblyInfoInputs.cache
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.AssemblyInfo.cs
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.dll
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.pdb
+C:\Users\bkukrej\source\repos\adothree\adothree\obj\Debug\netcoreapp3.1\adothree.genruntimeconfig.cache
